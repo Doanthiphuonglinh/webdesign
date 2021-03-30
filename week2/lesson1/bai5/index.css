@@ -1,0 +1,43 @@
+.content {
+	background-color: #F6F3E5;
+	margin: 0px;
+}
+.main {
+	background-color:white ;
+	width: 85%;
+	margin-top: 0px;
+	margin-left: 110px;
+
+}
+.main1 {
+	padding-top: 12px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 12px;
+	width: 70%;
+	float: left;
+}
+.nav1 {
+	background-color: #ffffcc;
+	padding-top: 12px;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-bottom: 12px;
+	overflow: auto;
+}
+.nav2 {
+	background-color:#ffeeee;
+	padding-top: 12px;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-bottom: 12px;
+	overflow: auto;
+}
+.nav3 {
+	background-color: #CCFFFF;
+	padding-top: 12px;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-bottom: 12px;
+	overflow: auto;
+}

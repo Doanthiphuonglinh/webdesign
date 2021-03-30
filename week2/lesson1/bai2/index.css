@@ -1,0 +1,28 @@
+body    {
+		background-image:url("file:///C:/Users/PC/Desktop/batvnbuoi4/bai1/images/background/bg.gif"); 
+		background-repeat: repeat;
+		margin: 10px;
+		padding: 10px;
+		}
+.main   {
+        background-color: cornsilk;
+        border: 3px dotted black;
+        width: 50%;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        margin: auto;
+        padding: 15px;
+}
+.text1 {
+	list-style-type:none;
+	text-align: center;
+}
+.footer {
+	background-color: #0ff;
+	width: 200px;
+	padding: 15px;
+	border-radius: 15px;
+	border: 1px black;
+	text-align: center;
+	font-style: italic;
+}
