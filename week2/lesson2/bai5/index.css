@@ -1,0 +1,105 @@
+body {
+font-family: Arial;	
+}
+.container{
+	background-color: black;
+	width: 100%;
+	height: 140px;
+}
+
+
+
+
+.text1 {
+	font-size: 40px;
+	color: white;
+	font-weight: bold;
+	padding-left: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+}
+.number {
+	font-size: 60px;
+	color: orange;
+	padding-left: 10px;
+    padding-top: 40px;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+}
+#menu {
+	width: 100%;
+	margin-top:0px;
+	height: 52px;
+	padding-top: 30px;
+	background-color: grey;
+
+}
+#menu ul li{	
+    display:inline;    
+}
+ 
+#menu li a{
+    font-size:20px; 
+    font-weight:bold;
+    color: white;
+ 	border: 1px solid black;
+    text-decoration:none;
+    background-color: grey;
+    padding:30px;
+    margin: -3px;    
+}
+.hinh1 {
+	width:100px;
+	height:100px;
+	background-color: grey;
+	float: left;
+	margin-left: 10px;
+}
+.content {
+	
+	width: 70%;
+	text-align: left;
+	margin-left: 120px;
+}
+.content h2{
+	font-size: 20px;
+	font-weight: bold;
+}
+.khoi1 {
+	width: 70%;
+	height: 80%;
+	float: left;
+	margin-top: 30px;
+}
+.dauxanh {
+	width: 20%;
+	height: 80%;
+	float: left;
+	margin-top: 30px;
+}
+.dauxanh h3 {
+	font-size: 18px;
+	font-weight: bold;
+}
+.dauxanh li a{
+	color: orange;
+	text-decoration: none;
+}
+.footer{
+	width: 100%;
+	background-color: black;
+	color: white;
+	height: 30px;
+	margin-top: 500px;
+	text-align: center;
+	padding-top: 10px;
+}
+button {
+	color: orange;
+	background-color: white;
+	border: none;
+}
+
+

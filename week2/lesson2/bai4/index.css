@@ -1,0 +1,40 @@
+body {
+	background-color: #81DAF5;
+	text-align: center;
+
+
+}
+
+h1 {
+	color: black;
+	font-weight: bold;
+	font-size:36px;
+	text-align: center;
+	padding-top: 20px;
+}
+  .Form {
+  	background-color: white;
+  	margin-top: 20px;
+  	margin-right: 20px;
+  	margin-left: 20px;
+  	padding-bottom:50px;
+}
+
+  .local {
+  width: 50%;
+  float: left;
+ text-align: left;
+
+}
+  .title {
+ 	width: 50%;
+ 	text-align: right;
+
+ 	 float: left;
+  }
+button {
+	background-color: #00FFFF;
+	color: white;
+	margin-top: 30px;
+}
+
