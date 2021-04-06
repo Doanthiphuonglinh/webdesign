@@ -1,0 +1,446 @@
+@font-face {
+	src:'acssets/font/Ubuntu/Ubuntu-Regular.ttf';
+	font-family: Ubuntu;
+}
+@font-face {
+	src:'acssets/font/Myriad Pro/Myriad Pro Regular.ttf';
+	font-family: Myriad Pro;
+}
+@font-face {
+	src:'acssets/font/Playfair Display/PlayfairDisplay-VariableFont_wght.ttf';
+	font-family: Playfair Display;
+}
+.container {
+	max-width: 1140px;
+	margin: auto;
+}
+.container h1 {
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 0.8;
+  text-align: center;
+  position: absolute;
+  left: 180px;
+  top: 89.828px;
+  width: 130px;
+  height: 23px;
+  z-index: 301;
+}
+#menu ul {
+  background: none;
+  list-style-type: none;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  margin-top: 89.828px;
+  margin-left: -60px;
+}
+#menu li {
+  float: right;
+  width: 120px;
+  height: 40px;
+  line-height: 1.714;
+}
+#menu a {
+  text-decoration: none;
+  display: block;
+  font-size: 14px;
+  font-family: "Playfair Display";
+  color: rgb(98, 98, 98);
+}
+.anh1 {
+	background-size: 100% 100%;
+   	background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+}
+.content h2 {
+  	font-size: 14px;
+  	font-family: Arial;
+  	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 770.25px;
+  	width: 85px;
+  	height: 11px;
+  	z-index: 288;
+}
+.content h1{
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 808.802px;
+}
+.content p{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 300px;
+ 	top: 875px;
+ 	width: 893px;
+  	height: 183px;
+}
+.content h3{
+  	font-size: 14px;
+  	font-family: Arial;
+  	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 1108.25px;
+ 	height: 11px;
+}
+.img1 {
+	margin-top: 600px;
+	margin-left: 300px;
+	float: left;
+}
+.img1 h3 {
+	font-size: 14px;
+  	font-family: "Arial";
+  	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 1610px;
+  	width: 63px;
+  	height: 11px; 
+}
+.img1 h1 {
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 1640px;
+}
+.img1 p{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 300px;
+  	top: 1694.247px;
+  	width: 414px;
+}
+.img2 {
+	margin-top: 600px;
+	margin-right: 320px;
+	float: right;
+}
+.img2 h3 {
+	font-size: 14px;
+  	font-family: "Arial";
+ 	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 780px;
+  	top: 1610px;
+  	width: 63px;
+  	height: 11px;
+}
+.img2 h1 {
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 780px;
+  	top: 1640px;
+}
+.img2 p{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 780px;
+  	top: 1694.247px;
+  	width: 414px;
+  	height: 63px;
+}
+.img3 {
+	margin-top: 360px;
+	margin-left: 300px;
+	float: left;
+}
+.img3 h3{
+	font-size: 14px;
+  	font-family: "Arial";
+ 	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 2250px;
+  	width: 63px;
+  	height: 11px;
+}
+.img3 h1{
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 300px;
+  	top: 2280px;
+}
+.img3 p{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 300px;
+  	top: 2340px;
+  	width: 414px;
+  	height: 63px;	
+}
+.img4 {
+	margin-top: 360px;
+	margin-right: 320px;
+	float: right;
+}
+.img4 h3{
+	font-size: 14px;
+  	font-family: "Arial";
+ 	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 780px;
+  	top: 2250px;
+  	width: 63px;
+  	height: 11px;
+}
+.img4 h1 {
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 780px;
+  	top: 2280px;
+}
+.img4 p {
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 780px;
+  	top: 2340px;
+  	width: 414px;
+  	height: 63px;
+}
+.box {
+  	position: absolute;
+	background-size: 100% 100%;
+  	top: 2600px;
+  	width: 1518px;
+  	height: 287px;
+  	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: rgb(240, 240, 240);
+
+}
+.box h1 {
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(51, 51, 51);
+  	line-height: 1.2;
+  	text-align: center;
+ 	position: absolute;
+  	left: 540px;
+  	top: 60px;
+  	width: 374px;
+  	height: 30px;
+}
+.send p{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	position: absolute;
+  	left: 530px;
+  	top: 160px;
+  	float: left;
+}
+.icon1 {
+
+	position: absolute;
+  	left: 900px;
+  	top: 164px;
+  	width: 32px;
+  	height: 17px;
+  	float: right;
+}
+.icon2 {
+	position: absolute;
+  	left: 530px;
+  	top: 180px;
+}
+.img5 {
+	position: absolute;
+  	left: 300px;
+  	top: 3100px;
+  	width: 431px;
+  	height: 647px;
+  	float: left;
+}
+.img5 h3{
+	font-size: 14px;
+  	font-family: "Arial";
+  	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 0px;
+  	top: 330px;
+  	width: 63px;
+  	height: 11px;
+}
+.img5 h1{
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 0px;
+  	top: 370px;
+  	width: 321px;
+  	height: 30px;
+}
+.img5 p{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 0px;
+  	top: 430px;
+  	width: 414px;
+  	height: 63px;	
+}
+.img6 {
+	position: absolute;
+  	left: 780px;
+  	top: 3100px;
+  	width: 453px;
+  	height: 316px;
+  	float: right;
+}
+.img6 h3{
+	font-size: 14px;
+  	font-family: "Arial";
+  	color: rgb(180, 173, 158);
+  	text-transform: uppercase;
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 0px;
+  	top: 330px;
+  	width: 63px;
+  	height: 11px
+}
+.img6 h1 {
+	font-size: 30px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 0px;
+  	top: 370px;
+}
+.img6 p {
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.714;
+  	text-align: left;
+  	position: absolute;
+  	left: 0px;
+  	top: 430px;
+  	width: 414px;
+  	height: 63px;
+}
+.button img{
+	position: absolute;
+  	left: 660px;
+  	top: 3780px;
+  	width: 162px;
+  	height: 58px;
+}
+.button p {
+	font-size: 20px;
+  	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	line-height: 1.2;
+  	position: absolute;
+  	left: 690px;
+  	top: 3800px;
+}
+.box-end {
+	background-color: rgb(240, 240, 240);
+  	position: absolute;
+  	left: 0px;
+  	top: 4928px;
+  	width: 1518px;
+  	height: 97px;
+}
+.text1 {
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(0, 0, 0);
+  	line-height: 1.714;
+  	position: absolute;
+  	left: 149.594px;
+  	top: 40px;
+
+}
+.text2{
+	font-size: 14px;
+  	font-family: "Playfair Display";
+  	color: rgb(0, 0, 0);
+  	line-height: 1.714;
+  	position: absolute;
+  	left: 1180px;
+  	top: 40px;
+}
+.icondau {
+	position: absolute;
+  	left: 1240px;
+  	top: 44px;
+
+}
+.iconhai {
+	position: absolute;
+  	left: 1280px;
+  	top: 44px;
+}
+.iconba {
+	position: absolute;
+  	left: 1320px;
+  	top: 44px;
+}
